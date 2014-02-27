@@ -18,6 +18,8 @@ import android.view.SurfaceHolder.Callback;
 /**
  * 
  * @author duxiao
+ * this is test from clone 
+ * is this change?
  *
  */
 public class MainActivity extends Activity {
