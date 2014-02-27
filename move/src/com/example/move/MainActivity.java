@@ -14,6 +14,12 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.SurfaceHolder.Callback;
 
+
+/**
+ * 
+ * @author duxiao
+ *
+ */
 public class MainActivity extends Activity {
 
     MyView mAnimView = null;
